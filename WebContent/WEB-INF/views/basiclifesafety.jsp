@@ -1,7 +1,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page contentType="text/html; charset=UTF-8" %>
 
- 						<div class="col-lg-12">
+ 						<div class="col-lg-12"> 
                         <div class="card">
                           <h5 class="card-header">General Building Information</h5>
                           <div class="card-body">
